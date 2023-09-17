@@ -40,10 +40,10 @@ Profitability drivers:
 Net Income Margin: This measures how much of the bank's earnings are retained as profit after accounting for all expenses
 (Interest income - interest expense) / Earning assets
 Efficiency drivers:
-Return on Assets: This demonstrates how profitable a bank is relative to its total assets.
+Return on Assets (ROA): This demonstrates how profitable a bank is relative to its total assets.
 (Net Income Margin x Earning assets - Non-interest income - Provisions for credit losses - Operating expenses) / Total assets
 Leverage drivers:
-ROE: Return on Assets x Total assets / Equity
+ROE: ROA x Total assets / Equity = Net Income / Equity
 Hence, the return on equity can be viewed as a composite of profitability, efficiency, and leverage.
 In the context of a decentralized stablecoin, it's important to increase the surplus because, generally speaking, a larger surplus acts as a protective shield for stablecoin users. This shield safeguards against potential losses or the devaluation of assets backing the stablecoin, ensuring the stablecoin's stability and credibility. When a decentralized stablecoin takes less risk on its loans (for e.g. through overcollateralization), the amount of surplus can be reduced. The size of the surplus should depend on the risk assumed on the loans.
 
